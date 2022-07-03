@@ -1,2 +1,3 @@
-# resume
-My resume 
+# Resume
+
+My resume using Tailwind css.
